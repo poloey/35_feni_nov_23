@@ -1,0 +1,26 @@
+* 2 package required
+* core/db.php
+* copy connection code and paste inside db.php 
+* add credentials to db.php
+* I will add db.php in files array in composer.json file
+* dump autoload
+* table create using illuminate schema (id, created_at, updated_at)
+* drop table using illuminate schema
+* 2 model City, Doctor which extends illuminate/database/eloquent/model
+* add table name to model
+* add fillable or guarded to model
+* make relationship between 2 model
+* create city and doctor controller and view
+* show city and doctor controller and view
+* add routing for 4 file
+* navbar
+
+
+
+
+
+
+
+
+
+
